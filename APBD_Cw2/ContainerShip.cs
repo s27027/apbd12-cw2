@@ -5,7 +5,7 @@ public class ContainerShip
     public List<Container> Containers { get; } = [];
     public int ShipMaxSpeed  { get; }
     public int MaxContainerCapacity { get; }
-    public int MaxContainerWeight { get; }
+    public double MaxContainerWeight { get; }
 
     public ContainerShip(int shipMaxSpeed, int maxContainerCapacity, int maxContainerWeight)
     {
@@ -82,7 +82,7 @@ public class ContainerShip
     }
     public void GetShipInfo()
     {
-        Console.WriteLine($"Maks. prędkość statku: {ShipMaxSpeed} Mm/h\nMaks. pojemność kontenerów: {MaxContainerCapacity}\nMaks. obciążenie: {(double)MaxContainerWeight/1000} T\nKontenery na statku:");
+        Console.WriteLine($"Maks. prędkość statku: {ShipMaxSpeed} Mm/h\nMaks. pojemność kontenerów: {MaxContainerCapacity}\nMaks. obciążenie: {MaxContainerWeight} T\nKontenery na statku:");
         foreach (var container in Containers)
         {
             Console.WriteLine(container.SerialNumber);
