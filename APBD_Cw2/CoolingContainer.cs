@@ -1,6 +1,4 @@
-﻿using System.ComponentModel;
-
-namespace APBD_Cw2;
+﻿namespace APBD_Cw2;
 
 public sealed class CoolingContainer : Container
 {
