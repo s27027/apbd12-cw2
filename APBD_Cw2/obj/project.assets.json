@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Lukasz\\.nuget\\packages\\": {}
+    "C:\\Users\\ES000164\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lukasz\\RiderProjects\\APBD_Cw2\\APBD_Cw2\\APBD_Cw2.csproj",
+      "projectUniqueName": "C:\\Users\\ES000164\\RiderProjects\\apbd12-cw2\\APBD_Cw2\\APBD_Cw2.csproj",
       "projectName": "APBD_Cw2",
-      "projectPath": "C:\\Users\\Lukasz\\RiderProjects\\APBD_Cw2\\APBD_Cw2\\APBD_Cw2.csproj",
-      "packagesPath": "C:\\Users\\Lukasz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lukasz\\RiderProjects\\APBD_Cw2\\APBD_Cw2\\obj\\",
+      "projectPath": "C:\\Users\\ES000164\\RiderProjects\\apbd12-cw2\\APBD_Cw2\\APBD_Cw2.csproj",
+      "packagesPath": "C:\\Users\\ES000164\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ES000164\\RiderProjects\\apbd12-cw2\\APBD_Cw2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lukasz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ES000164\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Lukasz\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\ES000164\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
